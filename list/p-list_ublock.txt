@@ -12,3 +12,6 @@ animehayai.net##.ads-close-button
 www.123-hd.com##.fancy-content
 
 ||animeyuzu.com/*/bg.webp$image
+
+||jwpltx.com^
+||t1.24playerhd.com^
