@@ -20,6 +20,9 @@ www.123-hd.com##.fancy-content
 ||t1.24playerhd.com^
 ||t4.24playerhd.com^
 
+!  xn--l3cmwb9e3d4b.com
+cyberpor.com##.show.fade.modal
+cyberpor.com##.show.fade.modal-backdrop
 
 ! LEGACY ---
 ! js fingerprint popup
