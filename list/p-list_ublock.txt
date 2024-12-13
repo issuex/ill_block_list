@@ -16,3 +16,10 @@ www.123-hd.com##.fancy-content
 ||jwpltx.com^
 ||t1.24playerhd.com^
 ||t4.24playerhd.com^
+
+
+! LEGACY ---
+! js fingerprint popup
+||84gs08xe1.com^
+||jl63v3fp1.com^
+! https://jl63v3fp1.com/r/dir?zoneid=2020443&pb=da7be...176770&psp=0D_0FK
