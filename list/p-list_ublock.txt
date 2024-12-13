@@ -10,6 +10,9 @@ subserieshd.com##[src="/images/close.gif"]
 
 ||anccplayer.cyou/source/Neon24h.mp4$media
 
+www.037hdmovie.com##.filmborder:style(border: none !important;)
+www.037hdmovie.com##.filmborder:style(margin-bottom: 0 !important;)
+
 animehayai.net##.ads-close-button
 
 www.123-hd.com##.fancy-content
