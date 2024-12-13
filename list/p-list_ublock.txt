@@ -11,4 +11,4 @@ animehayai.net##.ads-close-button
 
 www.123-hd.com##.fancy-content
 
-||animeyuzu.com/wp-content/uploads/2024/02/bg.webp$image
+||animeyuzu.com/*/bg.webp$image
