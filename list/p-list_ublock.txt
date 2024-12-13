@@ -11,3 +11,6 @@ subserieshd.com##[src="/images/close.gif"]
 
 ! Dec 13, 2024
 animehayai.net##.ads-close-button
+
+! Dec 13, 2024
+www.123-hd.com##.fancy-content
