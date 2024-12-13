@@ -3,6 +3,9 @@
 anime-sugoi.com#$#body { background: #171717 !important; }
 anime-sugoi.com##img:style(opacity: 0.5 !important;)
 
+||www.anime-sm.com/*/bg.jpg$image
+www.anime-sm.com#$#body { background: #171717 !important; }
+
 subserieshd.com##[src="/images/close.gif"]
 
 ||anccplayer.cyou/source/Neon24h.mp4$media
