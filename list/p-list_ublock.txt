@@ -1,16 +1,14 @@
-! Dec 13, 2024
+! Dec 13, 2024 ----
 ||www.anime-sugoi.com/upload/335357af810d85d0409c3f977744e18fo.jpg$image
 anime-sugoi.com#$#body { background: #171717 !important; }
 anime-sugoi.com##img:style(opacity: 0.5 !important;)
 
-! Dec 13, 2024 
 subserieshd.com##[src="/images/close.gif"]
 
-! Dec 13, 2024 
 ||anccplayer.cyou/source/Neon24h.mp4$media
 
-! Dec 13, 2024
 animehayai.net##.ads-close-button
 
-! Dec 13, 2024
 www.123-hd.com##.fancy-content
+
+||animeyuzu.com/wp-content/uploads/2024/02/bg.webp$image
