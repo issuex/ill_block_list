@@ -15,7 +15,8 @@ www.037hdmovie.com##.filmborder:style(margin-bottom: 0 !important;)
 
 animehayai.net##.ads-close-button
 
-www.123-hd.com##.fancy-content
+123-hd.com##.fancy-content
+123-hd.com##.htmlwrap.clearfix:style(background-color: #181818 !important;)
 
 ||animeyuzu.com/*/bg.webp$image
 
