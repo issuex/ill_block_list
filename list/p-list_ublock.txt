@@ -1,3 +1,6 @@
+! Dec 24, 2024 https://javcub.org ---process only single site
+javcub.org##[href="https://moviehd88.com/"]
+
 ! Dec 13, 2024 ----
 ||www.anime-sugoi.com/upload/335357af810d85d0409c3f977744e18fo.jpg$image
 anime-sugoi.com#$#body { background: #171717 !important; }
