@@ -1,3 +1,14 @@
+! Dec 28, 2024
+fairyanime.net#$#.pager li > a { background-color: #171717 !important; }
+fairyanime.net#$#.navbar { background: #171717 !important; }
+fairyanime.net#$#.navbar { border: none !important; }
+fairyanime.net#$#.concise { background: #171717 !important; }
+fairyanime.net#$#.panel { background: #171717 !important; }
+fairyanime.net#$#.panel { border: none !important; }
+fairyanime.net#$#body { background: #171717 !important; }
+fairyanime.net###copyright
+fairyanime.net##img:style(opacity: 0.7 !important;)
+
 ! Dec 24, 2024 https://javcub.org ---process only single site
 javcub.org##[href="https://moviehd88.com/"]
 
