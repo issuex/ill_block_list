@@ -1,3 +1,8 @@
+! 1 jan 2025
+www.anime-masters.com##[href="https://www.anime-masters.com"]
+www.anime-masters.com##[href="https://ok-doujinx.com"]
+||www.anime-masters.com/anime-master-background.webp$image
+
 ! Dec 28, 2024
 fairyanime.net#$#.pager li > a { background-color: #171717 !important; }
 fairyanime.net#$#.navbar { background: #171717 !important; }
